@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     internal class Class1
     {
+        public void Task1()
+        {
+            Console.WriteLine("task1");
+        }
     }
 }
